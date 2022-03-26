@@ -1,4 +1,4 @@
-package com.bre
+package 
 
 import com.cloudbees.plugins.credentials.common.StandardUsernamePasswordCredentials
 import com.cloudbees.plugins.credentials.CredentialsProvider
